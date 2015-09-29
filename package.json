@@ -1,0 +1,12 @@
+{
+  "title": "Site Roulette",
+  "name": "site-roulette",
+  "version": "0.0.1",
+  "description": "A button that gives you a random site",
+  "main": "index.js",
+  "author": "Nick Chapman",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MPL-2.0"
+}
